@@ -1,0 +1,20 @@
+{
+  "name": "Istoria_of_Reverberation",
+  "version": "1.0.0",
+  "description": "残響のイストリア ~Istoria of Reverberation~",
+  "main": "main.js",
+  "window": {
+    "title": "残響のイストリア",
+    "width": "1920",
+    "height": "1080",
+    "min_width": 100,
+    "min_height": 100,
+    "resize": true,
+    "devtools": false
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "asar": "^3.0.2",
+    "fs-extra": "^11.1.0"
+  }
+}
