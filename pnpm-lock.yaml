@@ -18,7 +18,7 @@ packages:
     requiresBuild: true
     dependencies:
       '@types/minimatch': 5.1.2
-      '@types/node': 18.16.0
+      '@types/node': 20.1.0
     dev: false
     optional: true
 
@@ -27,8 +27,8 @@ packages:
     dev: false
     optional: true
 
-  /@types/node@18.16.0:
-    resolution: {integrity: sha512-BsAaKhB+7X+H4GnSjGhJG9Qi8Tw+inU9nJDwmD5CgOmBLEI6ArdhikpLX7DjbjDRDTbqZzU2LSQNZg8WGPiSZQ==}
+  /@types/node@20.1.0:
+    resolution: {integrity: sha512-O+z53uwx64xY7D6roOi4+jApDGFg0qn6WHcxe5QeqjMaTezBO/mxdfFXIVAVVyNWKx84OmPB3L8kbVYOTeN34A==}
     dev: false
     optional: true
 
