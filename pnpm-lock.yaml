@@ -22,7 +22,7 @@ packages:
     requiresBuild: true
     dependencies:
       '@types/minimatch': 5.1.2
-      '@types/node': 20.14.10
+      '@types/node': 20.14.11
     dev: false
     optional: true
 
@@ -32,8 +32,8 @@ packages:
     dev: false
     optional: true
 
-  /@types/node@20.14.10:
-    resolution: {integrity: sha512-MdiXf+nDuMvY0gJKxyfZ7/6UFsETO7mGKF54MVD/ekJS6HdFtpZFBgrh6Pseu64XTb2MLyFPlbW6hj8HYRQNOQ==}
+  /@types/node@20.14.11:
+    resolution: {integrity: sha512-kprQpL8MMeszbz6ojB5/tU8PLN4kesnN8Gjzw349rDlNgsSzg90lAVj3llK99Dh7JON+t9AuscPPFW6mPbTnSA==}
     requiresBuild: true
     dependencies:
       undici-types: 5.26.5
