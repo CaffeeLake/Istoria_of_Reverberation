@@ -13,7 +13,7 @@ dependencies:
     version: 3.2.0
   fs-extra:
     specifier: ^11.1.0
-    version: 11.3.4
+    version: 11.3.5
 
 packages:
 
@@ -22,7 +22,7 @@ packages:
     requiresBuild: true
     dependencies:
       '@types/minimatch': 6.0.0
-      '@types/node': 25.6.0
+      '@types/node': 25.6.2
     dev: false
     optional: true
 
@@ -35,8 +35,8 @@ packages:
     dev: false
     optional: true
 
-  /@types/node@25.6.0:
-    resolution: {integrity: sha512-+qIYRKdNYJwY3vRCZMdJbPLJAtGjQBudzZzdzwQYkEPQd+PJGixUL5QfvCLDaULoLv+RhT3LDkwEfKaAkgSmNQ==}
+  /@types/node@25.6.2:
+    resolution: {integrity: sha512-sokuT28dxf9JT5Kady1fsXOvI4HVpjZa95NKT5y9PNTIrs2AsobR4GFAA90ZG8M+nxVRLysCXsVj6eGC7Vbrlw==}
     requiresBuild: true
     dependencies:
       undici-types: 7.19.2
@@ -86,8 +86,8 @@ packages:
     resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
     dev: false
 
-  /fs-extra@11.3.4:
-    resolution: {integrity: sha512-CTXd6rk/M3/ULNQj8FBqBWHYBVYybQ3VPBw0xGKFe3tuH7ytT6ACnvzpIQ3UZtB8yvUKC2cXn1a+x+5EVQLovA==}
+  /fs-extra@11.3.5:
+    resolution: {integrity: sha512-eKpRKAovdpZtR1WopLHxlBWvAgPny3c4gX1G5Jhwmmw4XJj0ifSD5qB5TOo8hmA0wlRKDAOAhEE1yVPgs6Fgcg==}
     engines: {node: '>=14.14'}
     dependencies:
       graceful-fs: 4.2.11
