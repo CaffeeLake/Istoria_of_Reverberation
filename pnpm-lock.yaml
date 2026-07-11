@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   adm-zip:
-    specifier: ^0.5.10
-    version: 0.5.18
+    specifier: ^0.6.0
+    version: 0.6.0
   asar:
     specifier: ^3.0.2
     version: 3.2.0
@@ -43,9 +43,9 @@ packages:
     dev: false
     optional: true
 
-  /adm-zip@0.5.18:
-    resolution: {integrity: sha512-ufJnssQGbxzLNS1Ho9bCtX4rQKCCvoVuDLHoJyc3F9dOGDB4BkWs2Ci0kv53lqocAEQ/Cbi+I2XCsNYGqVYqng==}
-    engines: {node: '>=12.0'}
+  /adm-zip@0.6.0:
+    resolution: {integrity: sha512-XleryMhbuksdKtofnWZ9Sk+4CUTbms4Mb/EU32SZwToAyZ5RgVos/ki8n+yr0LWHOGKuakbXTuuYNHLQjhddgg==}
+    engines: {node: '>=14.0'}
     dev: false
 
   /asar@3.2.0:
