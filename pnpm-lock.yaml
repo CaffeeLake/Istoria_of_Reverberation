@@ -22,7 +22,7 @@ packages:
     requiresBuild: true
     dependencies:
       '@types/minimatch': 6.0.0
-      '@types/node': 26.4.0
+      '@types/node': 26.5.0
     dev: false
     optional: true
 
@@ -35,11 +35,11 @@ packages:
     dev: false
     optional: true
 
-  /@types/node@26.4.0:
-    resolution: {integrity: sha512-faiGnoIrLH/V8cibOMEAZ8pMw6oXqSukl29ra4mN8GdaB2ZewzeaLj+INpV5N+Z1eKWzY+IzaIZH2EIR6YZRNQ==}
+  /@types/node@26.5.0:
+    resolution: {integrity: sha512-dVSGpriSoCgz8WnDNTuSSuSv1PC/ALXihO4ulRZt7Md8k9mlbdin3lGOcDE8SnWOgf513ByWlXd7BK4azmyg/A==}
     requiresBuild: true
     dependencies:
-      undici-types: 8.3.0
+      undici-types: 8.9.0
     dev: false
     optional: true
 
@@ -152,8 +152,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: false
 
-  /undici-types@8.3.0:
-    resolution: {integrity: sha512-j375ScV60dom+YkPFIfTLcOiPxkN/buHz5GobjLhixFuANaNs3C9l4GmrWqejgXWJ7BbJcFYpTEUkS1Ge8bpZQ==}
+  /undici-types@8.9.0:
+    resolution: {integrity: sha512-KTDyRTYX8sWmKXAikPHHSyc63CRPETMctyjKFupcC6OBLXT3xsN0e9aF7m+mIXutFWpUXuedtowG7iLOzp0kQg==}
     requiresBuild: true
     dev: false
     optional: true
