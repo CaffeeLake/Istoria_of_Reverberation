@@ -7,7 +7,7 @@ settings:
 dependencies:
   adm-zip:
     specifier: ^0.6.0
-    version: 0.6.0
+    version: 0.6.1
   asar:
     specifier: ^3.0.2
     version: 3.2.0
@@ -22,7 +22,7 @@ packages:
     requiresBuild: true
     dependencies:
       '@types/minimatch': 6.0.0
-      '@types/node': 26.5.0
+      '@types/node': 26.5.1
     dev: false
     optional: true
 
@@ -35,16 +35,16 @@ packages:
     dev: false
     optional: true
 
-  /@types/node@26.5.0:
-    resolution: {integrity: sha512-dVSGpriSoCgz8WnDNTuSSuSv1PC/ALXihO4ulRZt7Md8k9mlbdin3lGOcDE8SnWOgf513ByWlXd7BK4azmyg/A==}
+  /@types/node@26.5.1:
+    resolution: {integrity: sha512-CzNm2FezW4VR/LjG6yUdiEgLE/rAQ9Slj5gCu/C2VrdcW7I0ahNZ8DRbHT7zOZ6r3ONgd/bsQIeSaoDGrd1C6g==}
     requiresBuild: true
     dependencies:
       undici-types: 8.9.0
     dev: false
     optional: true
 
-  /adm-zip@0.6.0:
-    resolution: {integrity: sha512-XleryMhbuksdKtofnWZ9Sk+4CUTbms4Mb/EU32SZwToAyZ5RgVos/ki8n+yr0LWHOGKuakbXTuuYNHLQjhddgg==}
+  /adm-zip@0.6.1:
+    resolution: {integrity: sha512-Xwrja8nx9e5o2N1my4DsKCeKpdrnACyr1wtbPxBDgGzKzKyE9kRtBFA8mWldI+RVlD7CBZNWY/wQ2+ydwOR6kQ==}
     engines: {node: '>=14.0'}
     dev: false
 
